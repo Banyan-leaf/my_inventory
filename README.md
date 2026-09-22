@@ -177,3 +177,9 @@ pubspec.lock 提交到 git
 MIT License
 
 生成于 2026-09-16
+
+## License
+
+本项目采用 [MIT License](LICENSE) 开源。
+
+Copyright (c) 2026 Banyan-leaf
