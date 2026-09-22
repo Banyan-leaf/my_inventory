@@ -1,3 +1,9 @@
+![Flutter](https://img.shields.io/badge/Flutter-3.47-blue?logo=flutter)
+![Dart](https://img.shields.io/badge/Dart-3.13-blue?logo=dart)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green)
+# 个人物品管理系统
+
 markdown
 # 个人物品管理系统
 
