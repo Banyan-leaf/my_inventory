@@ -1,0 +1,49 @@
+# ============ Flutter / Dart ============
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+*.iml
+.idea/
+
+# ============ 平台生成文件 ============
+windows/flutter/ephemeral/
+windows/flutter/generated_plugin_registrant.h
+windows/flutter/generated_plugin_registrant.cc
+windows/flutter/generated_plugins.cmake
+linux/flutter/ephemeral/
+macos/Flutter/ephemeral/
+ios/Flutter/ephemeral/
+
+# ============ 用户数据（绝不提交） ============
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+inventory.db
+inventory_backup_*.json
+my_inventory_photos/
+
+# ============ 操作系统 ============
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ============ 编辑器 ============
+.vscode/
+*.swp
+*.swo
+*~
+
+# ============ 日志和临时文件 ============
+*.log
+build_log.txt
+*.tmp
+
+# ============ 密钥（如有） ============
+*.keystore
+*.jks
+key.properties
